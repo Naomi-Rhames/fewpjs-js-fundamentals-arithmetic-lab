@@ -1,1 +1,4 @@
-const multiply = num1 * num2i.sInteger(62)
+function math(multiply){
+    
+}
+const multiply = num1 * num2
