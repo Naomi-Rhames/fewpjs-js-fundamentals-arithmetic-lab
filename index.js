@@ -1,2 +1,4 @@
-
-// Write your code here
+function math(multiply){
+    
+}
+const multiply = num1 * num2
